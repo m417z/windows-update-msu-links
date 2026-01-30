@@ -1284,6 +1284,15 @@
             "releaseVersion": "26200.7462",
             "updateUrl": "https://support.microsoft.com/help/5072033"
         },
+        "KB5074105": {
+            "heading": "January 29, 2026&#x2014;KB5074105 (OS Builds 26200.7705 and 26100.7705) Preview",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-01-29",
+            "releaseVersion": "26200.7705",
+            "updateUrl": "https://support.microsoft.com/help/5074105"
+        },
         "KB5074109": {
             "heading": "January 13, 2026&#x2014;KB5074109 (OS Builds 26200.7623 and 26100.7623)",
             "otherWindowsVersions": [
