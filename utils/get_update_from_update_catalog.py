@@ -57,7 +57,7 @@ def get_update(arch: str, windows_version: str, update_kb: str):
     elif '-' in windows_version:
         windows_version_split = windows_version.split('-')
         search_query += f' {windows_version_split[1]}'
-        package_windows_version = fr'Windows {windows_version_split[0]} Version {windows_version_split[1]}'
+        package_windows_version = fr'Windows {windows_version_split[0]},? Version {windows_version_split[1]}'
     else:
         search_query += f' {windows_version}'
         package_windows_version = fr'Windows 10 Version {windows_version}'
