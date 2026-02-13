@@ -112,7 +112,7 @@ def get_updates_from_microsoft_support_for_version(windows_major_version, url):
             if windows_version_title == 'Windows 11, version 21H2':
                 windows_version = '11-21H2'
             else:
-                match = re.match(r'Windows 11, version (\w+)(?: update history)?$', windows_version_title, re.IGNORECASE)
+                match = re.match(r'Windows 11, version (\w+)$', windows_version_title.strip(), re.IGNORECASE)
                 assert match
                 windows_version = '11-' + match[1]
 
