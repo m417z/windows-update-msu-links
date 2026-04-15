@@ -1026,6 +1026,12 @@
             "releaseDate": "2026-03-10",
             "releaseVersion": "22631.6783",
             "updateUrl": "https://support.microsoft.com/help/5078883"
+        },
+        "KB5082052": {
+            "heading": "April 14, 2026&#x2014;KB5082052 (OS Build 22631.6936)",
+            "releaseDate": "2026-04-14",
+            "releaseVersion": "22631.6936",
+            "updateUrl": "https://support.microsoft.com/help/5082052"
         }
     },
     "11-24H2": {
@@ -1378,6 +1384,15 @@
             "releaseVersion": "26200.8037",
             "updateUrl": "https://support.microsoft.com/help/5079473"
         },
+        "KB5083769": {
+            "heading": "April 14, 2026&#x2014;KB5083769 (OS Builds 26200.8246 and 26100.8246)",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-04-14",
+            "releaseVersion": "26200.8246",
+            "updateUrl": "https://support.microsoft.com/help/5083769"
+        },
         "KB5085516": {
             "heading": "March 21, 2026&#x2014;KB5085516 (OS Builds 26200.8039 and 26100.8039) Out-of-band",
             "otherWindowsVersions": [
@@ -1421,6 +1436,12 @@
             "releaseDate": "2026-03-26",
             "releaseVersion": "28000.1764",
             "updateUrl": "https://support.microsoft.com/help/5079489"
+        },
+        "KB5083768": {
+            "heading": "April 14, 2026&#x2014;KB5083768 (OS Build 28000.1836)",
+            "releaseDate": "2026-04-14",
+            "releaseVersion": "28000.1836",
+            "updateUrl": "https://support.microsoft.com/help/5083768"
         }
     },
     "1507": {
@@ -3648,6 +3669,12 @@
             "releaseDate": "2026-03-10",
             "releaseVersion": "14393.8957",
             "updateUrl": "https://support.microsoft.com/help/5078938"
+        },
+        "KB5082198": {
+            "heading": "April 14, 2026&#x2014;KB5082198 (OS Build 14393.9060)",
+            "releaseDate": "2026-04-14",
+            "releaseVersion": "14393.9060",
+            "updateUrl": "https://support.microsoft.com/help/5082198"
         }
     },
     "1703": {
@@ -6150,6 +6177,12 @@
             "releaseDate": "2026-03-10",
             "releaseVersion": "17763.8511",
             "updateUrl": "https://support.microsoft.com/help/5078752"
+        },
+        "KB5082123": {
+            "heading": "April 14, 2026&#x2014;KB5082123 (OS Build 17763.8644)",
+            "releaseDate": "2026-04-14",
+            "releaseVersion": "17763.8644",
+            "updateUrl": "https://support.microsoft.com/help/5082123"
         }
     },
     "1903": {
@@ -7767,6 +7800,15 @@
             "releaseDate": "2026-03-10",
             "releaseVersion": "19045.7058",
             "updateUrl": "https://support.microsoft.com/help/5078885"
+        },
+        "KB5082200": {
+            "heading": "April 14, 2026&#x2014;KB5082200 (OS Builds 19045.7184 and 19044.7184)",
+            "otherWindowsVersions": [
+                "22H2"
+            ],
+            "releaseDate": "2026-04-14",
+            "releaseVersion": "19045.7184",
+            "updateUrl": "https://support.microsoft.com/help/5082200"
         }
     },
     "22H2": {
