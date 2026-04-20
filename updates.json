@@ -3675,6 +3675,12 @@
             "releaseDate": "2026-04-14",
             "releaseVersion": "14393.9060",
             "updateUrl": "https://support.microsoft.com/help/5082198"
+        },
+        "KB5091572": {
+            "heading": "April 19, 2026&#x2014;KB5091572 (OS Build 14393.9062) Out-of-band",
+            "releaseDate": "2026-04-19",
+            "releaseVersion": "14393.9062",
+            "updateUrl": "https://support.microsoft.com/help/5091572"
         }
     },
     "1703": {
@@ -6183,6 +6189,12 @@
             "releaseDate": "2026-04-14",
             "releaseVersion": "17763.8644",
             "updateUrl": "https://support.microsoft.com/help/5082123"
+        },
+        "KB5091573": {
+            "heading": "April 19, 2026&#x2014;KB5091573 (OS Build 17763.8647) Out-of-band",
+            "releaseDate": "2026-04-19",
+            "releaseVersion": "17763.8647",
+            "updateUrl": "https://support.microsoft.com/help/5091573"
         }
     },
     "1903": {

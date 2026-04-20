@@ -1503,6 +1503,10 @@
     "KB5082198": {
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2026/04/windows10.0-kb5082198-x86_98d93f430dc6a89a6c6ab18e4212526d5497fa9e.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/secu/2026/04/windows10.0-kb5082198-x64_2f64ef5389462c14d458858ba6a098d9b4e2a63a.msu"
+    },
+    "KB5091572": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/04/windows10.0-kb5091572-x86_2d20e4c2e94f193d33276794700ec20de2a8e9f7.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/04/windows10.0-kb5091572-x64_f93c2735b86463ed1c8920a2297e3021dbac3448.msu"
     }
   },
   "1703": {
@@ -3481,6 +3485,10 @@
     "KB5082123": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2026/04/windows10.0-kb5082123-x86_0f32648d39d95508b5a043d41b5b56315523a870.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/secu/2026/04/windows10.0-kb5082123-x64_3c1a2626005bdced0829822c5329ca30519d083c.msu"
+    },
+    "KB5091573": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/04/windows10.0-kb5091573-x86_536df70415d00b319286e9999201974b1b2b4636.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/04/windows10.0-kb5091573-x64_3884b190ff7ff239c0d3ba3dbf10d276901f9839.msu"
     }
   },
   "1903": {
