@@ -1384,6 +1384,15 @@
             "releaseVersion": "26200.8037",
             "updateUrl": "https://support.microsoft.com/help/5079473"
         },
+        "KB5083631": {
+            "heading": "April 30, 2026&#x2014;KB5083631 (OS Builds 26200.8328 and 26100.8328) Preview",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-04-30",
+            "releaseVersion": "26200.8328",
+            "updateUrl": "https://support.microsoft.com/help/5083631"
+        },
         "KB5083769": {
             "heading": "April 14, 2026&#x2014;KB5083769 (OS Builds 26200.8246 and 26100.8246)",
             "otherWindowsVersions": [
@@ -1442,6 +1451,12 @@
             "releaseDate": "2026-04-14",
             "releaseVersion": "28000.1836",
             "updateUrl": "https://support.microsoft.com/help/5083768"
+        },
+        "KB5083806": {
+            "heading": "April 30, 2026&#x2014;KB5083806 (OS Build 28000.1896) Preview",
+            "releaseDate": "2026-04-30",
+            "releaseVersion": "28000.1896",
+            "updateUrl": "https://support.microsoft.com/help/5083806"
         }
     },
     "1507": {
