@@ -98,7 +98,7 @@ def get_update(arch: str, windows_version: str, update_kb: str):
 
     update_uid, update_title = found_updates[0]
     update_title_pattern = rf'(\d{{4}}-\d{{2}} )?(Cumulative|Delta) Update (Preview )?for {package_windows_version} for (?i:{arch})-based Systems \({update_kb}\)( \(\d+\.\d+\))?'
-    assert re.fullmatch(update_title_pattern, update_title), update_title
+    assert re.fullmatch(update_title_pattern, update_title, flags=re.IGNORECASE), (update_title_pattern, update_title)
 
     return update_uid, update_title
 
