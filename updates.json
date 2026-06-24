@@ -1458,6 +1458,15 @@
             "releaseDate": "2026-06-09",
             "releaseVersion": "26200.8655",
             "updateUrl": "https://support.microsoft.com/help/5094126"
+        },
+        "KB5095093": {
+            "heading": "June 23, 2026&#x2014;KB5095093 (OS Builds 26200.8737 and 26100.8737) Preview",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-06-23",
+            "releaseVersion": "26200.8737",
+            "updateUrl": "https://support.microsoft.com/help/5095093"
         }
     },
     "11-26H1": {
@@ -1514,6 +1523,12 @@
             "releaseDate": "2026-06-09",
             "releaseVersion": "28000.2269",
             "updateUrl": "https://support.microsoft.com/help/5095051"
+        },
+        "KB5095091": {
+            "heading": "June 23, 2026&#x2014;KB5095091 (OS Build 28000.2340) Preview",
+            "releaseDate": "2026-06-23",
+            "releaseVersion": "28000.2340",
+            "updateUrl": "https://support.microsoft.com/help/5095091"
         }
     },
     "1507": {
