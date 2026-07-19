@@ -5501,6 +5501,10 @@
     "KB5101650": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/07dceb13-ffad-47c5-a8fe-0f195bd14dc9/public/windows11.0-kb5101650-x64_5d4163c2e483adc9456b7ea9a8ea83d8fceaf52c.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/af2b9842-814e-4c18-a26a-7e52892a382c/public/windows11.0-kb5101650-arm64_d6e94d9f6e19029b633eef18abf32e994af0b77e.msu"
+    },
+    "KB5121767": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e59e07a3-a66e-4fdf-ab6e-23da5b2a99d2/public/windows11.0-kb5121767-x64_588e6404d4e909f2609486fd91a7b28f02d4be0a.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/70ee92c8-fce0-49d4-931b-b308d2fbbfd1/public/windows11.0-kb5121767-arm64_02d5b695f5a7f4ae544b43d2bf03e46ce0535743.msu"
     }
   },
   "11-26H1": {

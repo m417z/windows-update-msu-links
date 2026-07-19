@@ -1482,6 +1482,15 @@
             "releaseDate": "2026-07-14",
             "releaseVersion": "26200.8875",
             "updateUrl": "https://support.microsoft.com/help/5101650"
+        },
+        "KB5121767": {
+            "heading": "July 18, 2026\u2014KB5121767 (OS Builds 26200.8894 and 26100.8894) Out-of-band",
+            "otherWindowsVersions": [
+                "11-25H2"
+            ],
+            "releaseDate": "2026-07-18",
+            "releaseVersion": "26200.8894",
+            "updateUrl": "https://support.microsoft.com/help/5121767"
         }
     },
     "11-26H1": {
