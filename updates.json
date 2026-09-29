@@ -1547,12 +1547,13 @@
             "updateUrl": "https://support.microsoft.com/help/5124008"
         },
         "KB5124010": {
-            "heading": "September 22, 2026\u2014KB5124010 (OS Builds 26200.9550 and 26100.9550) Preview",
+            "heading": "September 22, 2026\u2014KB5124010 (OS Builds 26300.9550, 26200.9550, and 26100.9550) Preview",
             "otherWindowsVersions": [
-                "11-25H2"
+                "11-25H2",
+                "11-26H2"
             ],
             "releaseDate": "2026-09-22",
-            "releaseVersion": "26200.9550",
+            "releaseVersion": "26300.9550",
             "updateUrl": "https://support.microsoft.com/help/5124010"
         },
         "KB5129195": {
