@@ -123,6 +123,9 @@ def get_update_from_update_catalog(arch: str, windows_version: str, update_kb: s
     if update_kb in config.updates_unsupported:
         return None
 
+    if (update_kb, arch) in config.update_archs_unsupported:
+        return None
+
     return get_update_from_update_catalog_impl(arch, windows_version, update_kb)
     # try:
     #     return get_update_from_update_catalog_impl(arch, windows_version, update_kb)

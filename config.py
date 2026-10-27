@@ -15,3 +15,8 @@ updates_unsupported = {
     # Missing on the Update Catalog.
     'KB5071959',
 }
+
+update_archs_unsupported = {
+    # ARM64 only.
+    ('KB5134134', 'x64'),
+}
