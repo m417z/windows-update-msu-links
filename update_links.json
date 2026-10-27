@@ -1535,6 +1535,10 @@
     "KB5129239": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/09/windows10.0-kb5129239-x86_cea60905af09326bae9a0566473b6887fb6ddad5.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/09/windows10.0-kb5129239-x64_b8127a51e81ce7d7dcb4aec0f1cc2397665f6053.msu"
+    },
+    "KB5134123": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/10/windows10.0-kb5134123-x86_b134959eac519cd4fc9f285d52f2bda5fd44aa14.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/10/windows10.0-kb5134123-x64_68c11337409b525820088c1699bd20815dc31372.msu"
     }
   },
   "1703": {
@@ -3545,6 +3549,10 @@
     "KB5129238": {
       "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/09/windows10.0-kb5129238-x86_15e3d8be58d00faf96b3cccd3161f63294792f2c.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/09/windows10.0-kb5129238-x64_0160d868c628b6f1ba2777a3d9fa8d1d7e72730b.msu"
+    },
+    "KB5134124": {
+      "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/10/windows10.0-kb5134124-x86_9ad07743fadfaecd5e7e1ec9d303412b1cda09d1.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/10/windows10.0-kb5134124-x64_357842d7eebd8cdc8b76f388d6d83b6c70051731.msu"
     }
   },
   "1903": {
@@ -4545,6 +4553,11 @@
       "x86": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/09/windows10.0-kb5129236-x86_d15b6028a229548c73aa9721640ce4a564d676da.msu",
       "x64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/09/windows10.0-kb5129236-x64_4413bfb0ab8a665cd0244ed67ec361170bb12ecb.msu",
       "arm64": "https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/updt/2026/09/windows10.0-kb5129236-arm64_ba33560d9cc68a2c254db424e6a6f607c6272003.msu"
+    },
+    "KB5134125": {
+      "x86": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/10/windows10.0-kb5134125-x86_4a1b98a076bdab986b32925ac2fd2b0f938ba864.msu",
+      "x64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/10/windows10.0-kb5134125-x64_938ad1b5ef48df6483c2b7beecd02e62d61e5dc4.msu",
+      "arm64": "https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/10/windows10.0-kb5134125-arm64_608e13f919183984195463d4ae60ca38ae6de34b.msu"
     }
   },
   "22H2": {
@@ -5323,6 +5336,10 @@
     "KB5129242": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/794e3f08-9beb-484d-8bcb-14fbecd0bc60/public/windows11.0-kb5129242-x64_6fb71c82604a60a3d324bd5fc18d42756b84f6e9.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0938cfe7-8408-49bf-8052-2c77dbf9b69c/public/windows11.0-kb5129242-arm64_8b4a23a38aebac90eadd0e14e37760c5b404aa6d.msu"
+    },
+    "KB5134130": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c059f12f-de02-4f78-a57f-f10830350250/public/windows11.0-kb5134130-x64_e482120afd7b374cea3a459bd38c0afa268db5c0.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8d88bd87-84d1-4a4a-a480-7744c3f25653/public/windows11.0-kb5134130-arm64_39b799d8123dd245566bb5196bd41dee124da1b6.msu"
     }
   },
   "11-24H2": {
@@ -5601,6 +5618,10 @@
     "KB5129195": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/471c8f54-b9fc-491d-9944-234d5db009f0/public/windows11.0-kb5129195-x64_ed361878ec2b56a7dfdb8f256565263a7fdc8eaa.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3750a920-b998-4242-8fed-32423df59284/public/windows11.0-kb5129195-arm64_e6b0a7f8c8cacdf87e8da1a01fe073934a0002b4.msu"
+    },
+    "KB5134133": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/37e2df4b-2f39-44bf-b7d7-c75ae43cf4c8/public/windows11.0-kb5134133-x64_0e59d2f988a5422dfb489e97faed3b3835fc7568.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e9f8db6-fcab-4b47-bb61-eb40c6ebb286/public/windows11.0-kb5134133-arm64_a441364165aee90518f1e910bddbf508e9943c28.msu"
     }
   },
   "11-26H1": {
@@ -5675,6 +5696,10 @@
     "KB5129194": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d82c3bd8-a3a6-4d87-bd8e-5df5eb7b6cb2/public/windows11.0-kb5129194-x64_e46546e8472484b91514d74bd6c5c4f6a3b647ac.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ebb26e96-d6a6-4857-bd14-7db877b860f1/public/windows11.0-kb5129194-arm64_624d00fde94bce9ff2f74316ebd6da7c8173132b.msu"
+    },
+    "KB5134134": {
+      "x64": null,
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/eb35626a-a7a3-4ce8-9692-89fbca5a4416/public/windows11.0-kb5134134-arm64_75afeec9e1ffb936187280890896e90e74e20d8b.msu"
     }
   }
 }
