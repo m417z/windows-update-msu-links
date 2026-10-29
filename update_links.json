@@ -5624,6 +5624,12 @@
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8e9f8db6-fcab-4b47-bb61-eb40c6ebb286/public/windows11.0-kb5134133-arm64_a441364165aee90518f1e910bddbf508e9943c28.msu"
     }
   },
+  "11-25H2": {
+    "KB5127936": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6638a86-82af-448b-8b8d-03857c230aed/public/windows11.0-kb5127936-x64_50caf2fe2be948935a804656404d11f17929830b.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7fbea855-775e-4d48-9629-653a8960efff/public/windows11.0-kb5127936-arm64_08dafc621b261936677b0827cd72ef2eb759b626.msu"
+    }
+  },
   "11-26H1": {
     "KB5077179": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6a06873f-7099-445d-9b04-d5df102db265/public/windows11.0-kb5077179-x64_a8924b32dce45673073a2271a4b17796bb8ae0f2.msu",
@@ -5692,6 +5698,10 @@
     "KB5127646": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/23a416b1-3cfa-451b-8ca3-186075b34a87/public/windows11.0-kb5127646-x64_1581b4e504578c7885f2ce34a86c37f785bef551.msu",
       "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dab0b147-7e03-4102-aa20-9d1a64e8a3df/public/windows11.0-kb5127646-arm64_9495674eba343f8241770ebcb479bc4325de9cb7.msu"
+    },
+    "KB5127653": {
+      "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e9115a85-b733-45c8-9e9c-b56983f05ff4/public/windows11.0-kb5127653-x64_319cd0de593780c2d6b663ce0c8eab06beb1a22b.msu",
+      "arm64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/276b79f5-4371-4aec-b96f-10077e99bc3d/public/windows11.0-kb5127653-arm64_9f0969ea9e0fd06494842816cd1d5337a3868e42.msu"
     },
     "KB5129194": {
       "x64": "https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d82c3bd8-a3a6-4d87-bd8e-5df5eb7b6cb2/public/windows11.0-kb5129194-x64_e46546e8472484b91514d74bd6c5c4f6a3b647ac.msu",
